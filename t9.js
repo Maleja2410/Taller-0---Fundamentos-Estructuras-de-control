@@ -1,0 +1,1 @@
+// Escribe un programa que genere una lista aleatoria de numeros y elimine todos los pares.

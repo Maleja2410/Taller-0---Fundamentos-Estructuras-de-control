@@ -1,0 +1,1 @@
+// Escribe un programa que genere la tabla de multiplicar de un número dado.
